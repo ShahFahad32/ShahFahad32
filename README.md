@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shah Fahad
-- 👀 I’m interested in Codimg
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
